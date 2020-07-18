@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BookList App</string>
+    <string name="checkBookListButtonText">Check the book list</string>
+    <string name="searchForABookButtonText">Search For A Book</string>
+    <string name="enterBookNameEditText">Enter The Book Name</string>
+    <string name="searchForTheBookButtonText">Search</string>
+
 </resources>
